@@ -20,11 +20,11 @@
 </div>
 
 - [Hallo Mincraft! Luncher:Poket Edision](https://tungstend.github.io/): 
-The software attempts to restore HMCL on Android devices, allowing players to manage Games, Mods, Controls and More.
+The software attempts to factory reset on Android devices, allowing players to not waste their time in mincreft
 
-- **Run Mincraft Jeve Edision directly on your Android device**, with mod support and all verzions of the Game.
+- **Run Mincraft Jeve Edision directly on your Android device**, with therapy and all verzions of the Game.
 
-- **my balls has stopped maintenance. If you want to run on my balls and get a better experience, please download [my bum Launcher](https://fcl-team.github.io/) or [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher). Note: If you have any problems when using other launchers, HMCL-dev is not responsible. Please ask the developer of the launcher you are using for help.**
+- **my balls has stopped maintenance. If you want to run on my balls and get a better experience, please download [my bum luncher](gyat luncher) or[morefarts](gaygyattt). Note: If you have any problems when running on my balls I am not responsible.**
 
 <h1 align="center">Features</h1>
 
