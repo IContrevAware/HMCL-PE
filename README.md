@@ -2,7 +2,7 @@
     <img width="175" src="/HMCLPE/src/main/res/drawable/ic_craft_table.png"></img>
 </div>
 
-<h1 align="center">HMCL-PE</h1>
+<h1 align="center">fartinmybum</h1>
 
 <div align="center">
 
@@ -19,12 +19,12 @@
 
 </div>
 
-- [Hello Minecraft! Launcher:Pocket Edition](https://tungstend.github.io/): 
+- [Hallo Mincraft! Luncher:Poket Edision](https://tungstend.github.io/): 
 The software attempts to restore HMCL on Android devices, allowing players to manage Games, Mods, Controls and More.
 
-- **Run Minecraft Java Edition directly on your Android device**, with mod support and all versions of the Game.
+- **Run Mincraft Jeve Edision directly on your Android device**, with mod support and all verzions of the Game.
 
-- **HMCL-PE has stopped maintenance. If you want to run Minecraft: Java Edition on Android devices and get a better experience, please download [Fold Craft Launcher](https://fcl-team.github.io/) or [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher). Note: If you have any problems when using other launchers, HMCL-dev is not responsible. Please ask the developer of the launcher you are using for help.**
+- **my balls has stopped maintenance. If you want to run on my balls and get a better experience, please download [my bum Launcher](https://fcl-team.github.io/) or [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher). Note: If you have any problems when using other launchers, HMCL-dev is not responsible. Please ask the developer of the launcher you are using for help.**
 
 <h1 align="center">Features</h1>
 
