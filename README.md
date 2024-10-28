@@ -26,7 +26,7 @@ The software attempts to factory reset on Android devices, allowing players to n
 
 - **my balls has stopped maintenance. If you want to run on my balls and get a better experience, please download [my bum luncher](gyat luncher) or[morefarts](gaygyattt). Note: If you have any problems when running on my balls I am not responsible.**
 
-<h1 align="center">Features</h1>
+<h1 align="center">Unfortunately, it cant</h1>
 
 - [x] Run Minecraft on all versions
 - [x] Run Forge, OptiFine, Fabric and others
@@ -36,13 +36,11 @@ The software attempts to factory reset on Android devices, allowing players to n
 - [x] Using Shaders (with VirGL)
 - [x] Create custom controllers
 - [x] Customizable launcher themes and colors
-- [x] And much more!
+- [x] And much more
 
 <h1 align="center">Screenshots</h1>
 
-![GameScreen1](/.github/images/hmcl-pe-in-game-1.jpg)
-![GameScreen2](/.github/images/hmcl-pe-in-game-2.jpg)
-![ModScreen](/.github/images/hmcl-pe-mods-menu.jpg)
+<h1 align="center">our software crahses
 
 <h1 align="center">Compilation</h1>
 
