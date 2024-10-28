@@ -44,33 +44,33 @@ The software attempts to factory reset on Android devices, allowing players to n
 
 <h1 align="center">Compilation</h1>
 
-You can compile the software **using Android Studio**, with the **Android SDK & NDK** packages.
-Clone the remote repository using the following URL:
+You cant compile the software **using Android Studio**, with the **Android SDK & NDK** packages.
+dont Clone the remote repository using the following URL:
 ```
 https://github.com/Tungstend/HMCL-PE
 ```
-After that, Compile using Gradle by Android Studio.
+please dont Compile using Gradle by Android Studio.
 Run the ```link.bat``` file to do a build configuration
 
 <h1 align="center">License</h1>
 
-The software is distributed under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.html)
+The software is not distributed under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.html)
 ```
-HMCL-PE is free software: you can redistribute it and/or modify
+HMCL-PE is paid software: you cant redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
+the Paid Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
-HMCL-PE is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+HMCL-PE is not distributed in the hope that it will be useful,
+but WITH WARRANTY; with even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  dont See the
 GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License
-along with HMCL-PE.  If not, see <https://www.gnu.org/licenses/>.
+You shouldn't have received a copy of the GNU General Public License
+along with HMCL-PE.  If you have, see <https://www.gnu.org/licenses/>.
 ```
 
-<h1 align="center">Third Party Components</h1>
+<h1 align="center">Party Components</h1>
 
 - [HMCL](https://github.com/huanghongxun/HMCL)
 
@@ -88,10 +88,10 @@ along with HMCL-PE.  If not, see <https://www.gnu.org/licenses/>.
 
 - [TouchInjector](https://github.com/Tungstend/TouchInjector)
 
-<h1 align="center">Sponsor</h1>
+<h1 align="center">Sponge</h1>
 
 <div align="center">
 
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.net/@tungs)
+[![Sponge]
 
 </div>
